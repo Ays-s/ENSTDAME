@@ -1,3 +1,7 @@
+# ENSTDAME
+Ayrwan Guillermo & Césaire Portalis
+
+## Comment jouer ?
 Pour lancer le jeu en mode IHM -> run main.py
 
 Pour déplacer un pion -> cliquer sur le pion voulu puis relacher sur la case voulue
