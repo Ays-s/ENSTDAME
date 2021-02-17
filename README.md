@@ -1,4 +1,4 @@
-# ENSTDAME
+# ENSTDAMES
 Ayrwan Guillermo & Césaire Portalis
 
 ## Comment jouer ?
